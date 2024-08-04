@@ -1,13 +1,14 @@
-I use they/them pronouns exclusively!
+I use they/them/their pronouns exclusively!
 
-# Examples of usage:
+# How to use they/them/their pronouns
 
 - John David is a musician. They play cello and upright bass.
+- John David is punctual. You can rely on them to arrive on time.
 - John David loves to write code. Their projects are usually well-maintained.
 
 # Questions:
 
-## Why do you use they/them pronouns?
+## Why do you use they/them/their pronouns?
 
 I identify as a genderfluid or genderqueer nonbinary person. Being referred to as "man", "bro", "dude", etc. has never felt right to me. I am most comfortable when I can express my femme side.
 
