@@ -1,6 +1,6 @@
 # writings
 
-Welcome! Here are some of my collected writings.
+Welcome! Here are some of my writings.
 
 ---
 
