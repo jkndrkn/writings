@@ -30,7 +30,7 @@ About a year into this role I decided to apply for grad school in the same depar
 
 I applied, honestly thinking that I wouldn’t be accepted because I hadn’t forged any connections with faculty and because my GPA was so low. I was elated when I was accepted. I should have let my supervisor know about this because my announcement that I would go to grad school part-time stressed him out. He made it clear that he still had high expectations of my productivity as the sole programmer.
 
-My first year of grad school was super rewarding. I got a chance to use Common Lisp to write an instruction set simulator (link). I got a chance to learn parallel computer architecture from Dr. George and write high-performance message-passing code in C. I also had a chance to combine music and technology by completing coursework in electroacoustic music composition.
+My first year of grad school was super rewarding. I got a chance to use Common Lisp to write an instruction set simulator. I got a chance to learn parallel computer architecture from Dr. George and write high-performance message-passing code in C. I also had a chance to combine music and technology by completing coursework in electroacoustic music composition.
 
 However, grad school became very challenging. I would often come home from school and class and have to work on classwork after dinner until the evening hours. I would sometimes spend entire weekends working on class projects.
 
@@ -38,7 +38,7 @@ When I started my current role, I joined a technical metal band. We would rehear
 
 My excitement for grad school cooled during my second year when I started experiencing burnout. I still enjoyed my projects but studying for tests became a huge drag – I started having to repeatedly use affirmations to get through yet another pass of my flash cards. I also found it difficult to collaborate with others in group projects when they didn’t seem excited or passionate about their work like I was. Toward the end I was having serious thoughts about quitting but a chance conversation with a friend who had completed his own MS thankfully dissuaded me from that.
 
-By the end I had taken three classes where I completed projects using Lisp (links) and two classes where I completed projects using Erlang (link) and had a much higher GPA than my undergraduate GPA. However, even though my experiences in grad school led me to being able to land my next job and really advance my career I was so completely burned out that it took me years to be able to look back on grad school in a positive light.
+By the end I had taken three classes where I completed projects using Lisp  and two classes where I completed projects using Erlang and had a much higher GPA than my undergraduate GPA. However, even though my experiences in grad school led me to being able to land my next job and really advance my career I was so completely burned out that it took me years to be able to look back on grad school in a positive light.
 
 My time in grad school came to a close and my partner at the time was ready to move on to the internship year for her PhD program. She got matched in Salt Lake City and it was time for me to interview for new jobs. I posted some questions in the Utah Ruby User’s Group and the third response to my questions led to my next job!
 
