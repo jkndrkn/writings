@@ -47,3 +47,7 @@ My plan was to transition to a career as a professional musician. I am a cellist
 I had transitioned from moving on a narrow, fear-driven, path focused around career and money to a free-wheeling life of burning through my savings and going deeper into music than ever before. I made lots of new connections and more boldly (recklessly?) asserted my needs and transitioned into and out of roles.
 
 This period lasted several years and was the biggest period of growth in my personal and professional life. Outside of my software work, I began co-leading meditation groups, I got certified to teach yoga, and I participated in a communication skills intensive. I moved to New Orleans and back to Gainesville. I had found more freedom in my life and experienced many sometimes painful but necessary growth experiences.
+
+---
+
+Copyright John David Eriksen 2024

@@ -45,3 +45,7 @@ My time in grad school came to a close and my partner at the time was ready to m
 To prepare for my transition I hired someone who I had worked with at my first job who had a work ethic that I appreciated.
 
 Leaving was bittersweet – my coworkers celebrated with me with a nice dinner. It was time to leave Gainesville and transition into new personal, musical, and work relationships in a place very different from Gainesville in many ways – the Salt Lake City Metro area.
+
+---
+
+Copyright John David Eriksen 2024

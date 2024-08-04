@@ -15,3 +15,7 @@ Over the years I worked first 15 hours, then 20 hours a week when I finally noti
 This period of my life saw my income drop sharply but the trade-off was being able to practice and perform tons of music, dedicate time to serving my community by helping out with the meditation and Buddhist communities in my area, complete a yoga teacher training course, and begin to find my own queer identity. I would also participate in a communication workshop intensive that profoundly transformed my ability to hear and be heard.
 
 The last year and a half in this role would see a huge transition for me both in my role but also in my personal and creative life. You might remember a certain respiratory illness that turned life upside down in the beginning of 2020 ;]
+
+---
+
+Copyright John David Eriksen 2024

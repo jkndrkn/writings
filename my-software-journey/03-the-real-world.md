@@ -38,3 +38,7 @@ Even though I wanted to get away from this place as soon as I arrived, I did lea
 The biggest influence on my work and career development were what I saw as organizational and management failures. To try to make sense of this, I started learning about the craft of software engineering. I delved into the world of early software bloggers such as Joel on Software, Paul Graham, and Jeff Atood, and would spend hours on the Programming Reddit and Hacker News. I started reading foundational books recommended by many bloggers including Peopleware and The Mythical Man Month. I read all of Code Complete and Martin Fowler’s Refactoring, and started to learn Lisp programming on my own via The Little Schemer and Practical Common Lisp.
 
 I was also hugely relieved to notice that much of the math and theory that I struggled with in my computer science major was not always demanded in many software roles. I encountered very skilled and intelligent programmers that struggled to complete their projects and collaborate with others. I learned that understanding people and processes are a key component in the success of software projects.
+
+---
+
+Copyright John David Eriksen 2024

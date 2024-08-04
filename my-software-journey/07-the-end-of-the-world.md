@@ -36,3 +36,7 @@ Early on, I let my CIO know that I had the intention of leaving my role but that
 Then my role suddenly became sharply stressful – my programmer colleague that I had worked with for seven years gave his two weeks notice. I was informed that we were going to hire an outsourcing firm again and that we wouldn’t be able to send them macOS systems. This meant that I had to try and figure out how to support our Dockerized application on Windows and it quickly became apparent that making this happen was going to require a huge amount of effort or not be possible at all.
 
 Fortunately I was able to finalize the hiring process for a new role also based in Utah at a company with a very strong mission to make their employees feel happy and productive. I would also get a chance to work with AI and Clojure again :]
+
+---
+
+Copyright John David Eriksen 2024

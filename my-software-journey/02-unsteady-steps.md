@@ -17,3 +17,7 @@ I struggled my way through the rest of my undergraduate major. Not being able to
 My undergraduate experiences were for the most part quite stressful. Excelling at hardware-based courses that others found to be challenging was validating, however. So was the feedback I got at a part-time job I had at the astronomy department. My work there consisted of building and documenting thick, many-conductor cables for the CanariCam and FLAMINGOS infrared telescope cameras, and documenting electronics chassis layouts. Apparently when the CanariCam was installed there wasn’t a single issue with any of my cables! No mixed-up wiring or bad solder joints :] I attribute this success to Dr. Schwartz’ philosophy of carefully testing each module as you are building it and then also validating the complete design at the end.
 
 I am also grateful to be exposed to Unix command-line usage via operating systems courses. As a result of this early exposure and confidence I was inspired to install Ubuntu 4.10 on my home PC and I enjoyed the challenge of researching fixes for sound and wireless network card issues. For many years I used Linux on my personal computers unless I wanted to work on creative audio projects. I have mentored relatively recent UF computer science graduates and was saddened to learn that they do not seem to get much Unix exposure anymore.
+
+---
+
+Copyright John David Eriksen 2024
