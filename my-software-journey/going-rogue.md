@@ -1,0 +1,17 @@
+In Utah, a conviction that I had to be bolder and more direct about my needs started. It started with my decision to go remote and cut my hours. I brought this attitude into my first job as an independent contractor.
+
+I started working at a medical devices manufacturer on a small team working on web-based internal tools. I was one of two programmers there. The other programmer was the guy I had seen in high school toting a C++ reference who I helped hire at my first job. The second was my very close musician friend from my second role working as a designer and project manager.
+
+We faced big challenges early on. My background up to this point was working with larger teams in environments where there was a lot of collective decision-making and peer review including code reviews. I had attained software leadership experience and worked on both tiny and also quite large code bases.
+
+I had and have high standards for both crafting software and collaborating and I quickly noticed that my programming colleague had a background primarily as a sole contributor on projects. He was used to doing things one way and I was used to doing things another way. When I would propose changes that he disagreed with I noticed that he would ignore me or try to change the subject and eventually overrule me without telling me.
+
+This was not sustainable for me and I told my project manager and friend that I was going to quit. He suggested that we engage the company’s HR department for assistance and I am so glad that I accepted! They basically gave us a framework for discussing how we wanted to work as a group and what we all collectively valued.
+
+I am glad that we decided to have this conversation because as a result our programming colleague shared with us that because he felt that since he had seniority in the role we had to agree with his decisions. Both the project manager and I said that this doesn’t work for us and my colleague was able to shift his expectations of how our team would collaborate from that point forward. This conversation was pivotal for our team. It led to my longest time in any role so far – seven years minus a few months where I did contract work for the supervisor at my second role.
+
+Over the years I worked first 15 hours, then 20 hours a week when I finally noticed that I was losing income every year ;] I gradually introduced unit testing, integration testing, use of auto-formatting, and code reviews into our projects. I had a chance to work with modern front-end JavaScript frameworks and got experience with the Node.js ecosystem. I learned quite a bit about Python under the tutelage of my colleague. I also learned how to work in a two-person programming team and how to deal with the challenges of resolving disagreements when there is no tiebreaker vote.
+
+This period of my life saw my income drop sharply but the trade-off was being able to practice and perform tons of music, dedicate time to serving my community by helping out with the meditation and Buddhist communities in my area, complete a yoga teacher training course, and begin to find my own queer identity. I would also participate in a communication workshop intensive that profoundly transformed my ability to hear and be heard.
+
+The last year and a half in this role would see a huge transition for me both in my role but also in my personal and creative life. You might remember a certain respiratory illness that turned life upside down in the beginning of 2020 ;]
